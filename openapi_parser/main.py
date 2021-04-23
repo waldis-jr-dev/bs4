@@ -26,4 +26,4 @@ def main(main_url: str):
 
 
 if __name__ == '__main__':
-    main('http://develop.jazzserve.com:9095/innovate/doc/')
+    main('https://develop.yourdomain.com')
